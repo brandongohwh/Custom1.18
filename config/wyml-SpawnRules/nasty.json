@@ -1,0 +1,25 @@
+{
+	"mod": "nasty",
+	"spawn": {
+		// Array of all categories this mod has spawns for
+		"categories": {
+			"monster": {
+				// Set the limit per mob within this category
+				"spawns": {
+					"skeleton": {
+						// Do not edit this name
+						"name": "skeleton",
+						// Maximum amount of this mob that can spawn per chunk
+						"limit": 1
+					},
+					"wolf": {
+						// Do not edit this name
+						"name": "wolf",
+						// Maximum amount of this mob that can spawn per chunk
+						"limit": 1
+					}
+				}
+			}
+		}
+	}
+}

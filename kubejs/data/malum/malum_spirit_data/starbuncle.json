@@ -1,0 +1,9 @@
+{
+    "registry_name": "ars_nouveau:starbuncle",
+    "spirits": [
+      {
+        "spirit": "sacred",
+        "count": 1
+      }
+    ]
+  }

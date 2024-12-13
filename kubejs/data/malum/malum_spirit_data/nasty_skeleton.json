@@ -1,0 +1,13 @@
+{
+  "registry_name": "nasty:skeleton",
+  "spirits": [
+    {
+      "spirit": "wicked",
+      "count": 1
+    },
+    {
+      "spirit": "arcane",
+      "count": 2
+    }
+  ]
+}

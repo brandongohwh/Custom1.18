@@ -1,0 +1,22 @@
+[
+  {
+    "type": "fluid",
+    "key": "create:chocolate",
+    "rarity": "rare",
+    "create": 200,
+    "maintain": 200,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "create:honey",
+    "rarity": "rare",
+    "create": 200,
+    "maintain": 200,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "registry_name": "quark:foxhound",
+  "spirits": [
+    {
+      "spirit": "infernal",
+      "count": 2
+    }
+  ]
+}

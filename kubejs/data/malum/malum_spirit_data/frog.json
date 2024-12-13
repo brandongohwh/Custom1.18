@@ -1,0 +1,9 @@
+{
+  "registry_name": "quark:frog",
+  "spirits": [
+    {
+      "spirit": "aqueous",
+      "count": 1
+    }
+  ]
+}

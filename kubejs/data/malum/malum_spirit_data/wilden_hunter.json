@@ -1,0 +1,13 @@
+{
+    "registry_name": "ars_nouveau:wilden_hunter",
+    "spirits": [
+      {
+        "spirit": "wicked",
+        "count": 1
+      },
+      {
+        "spirit": "sacred",
+        "count": 1
+      }
+    ]
+  }

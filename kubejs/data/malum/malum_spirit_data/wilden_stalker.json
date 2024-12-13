@@ -1,0 +1,13 @@
+{
+    "registry_name": "ars_nouveau:wilden_stalker",
+    "spirits": [
+      {
+        "spirit": "wicked",
+        "count": 1
+      },
+      {
+        "spirit": "aerial",
+        "count": 1
+      }
+    ]
+  }

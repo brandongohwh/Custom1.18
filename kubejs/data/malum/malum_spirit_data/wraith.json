@@ -1,0 +1,13 @@
+{
+  "registry_name": "quark:wraith",
+  "spirits": [
+    {
+      "spirit": "wicked",
+      "count": 1
+    },
+    {
+      "spirit": "arcane",
+      "count": 1
+    }
+  ]
+}
