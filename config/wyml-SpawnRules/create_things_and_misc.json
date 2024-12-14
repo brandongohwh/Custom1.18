@@ -1,0 +1,19 @@
+{
+	"mod": "create_things_and_misc",
+	"spawn": {
+		// Array of all categories this mod has spawns for
+		"categories": {
+			"monster": {
+				// Set the limit per mob within this category
+				"spawns": {
+					"balloon_blaze": {
+						// Do not edit this name
+						"name": "balloon_blaze",
+						// Maximum amount of this mob that can spawn per chunk
+						"limit": 70
+					}
+				}
+			}
+		}
+	}
+}
